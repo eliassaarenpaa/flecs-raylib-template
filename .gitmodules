@@ -1,0 +1,12 @@
+[submodule "FlecsRaylib/SubModules/flecs"]
+	path = SubModules/flecs
+	url = git@github.com:SanderMertens/flecs.git
+[submodule "FlecsRaylib/SubModules/raylib"]
+	path = SubModules/raylib
+	url = git@github.com:raysan5/raylib.git
+[submodule "FlecsRaylib/SubModules/raylib-cpp"]
+	path = SubModules/raylib-cpp
+	url = git@github.com:RobLoach/raylib-cpp.git
+[submodule "FlecsRaylib/SubModules/pfr"]
+	path = SubModules/pfr
+	url = git@github.com:boostorg/pfr.git
